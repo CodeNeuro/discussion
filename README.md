@@ -1,4 +1,4 @@
-# discussion
+# Discussion
 
 A repo for all discussion related to CodeNeuro
 
